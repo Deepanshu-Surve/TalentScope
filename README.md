@@ -5,15 +5,12 @@ TalentScope is an advanced AI-powered Resume Analyzer that transforms traditiona
 ---
 
 ## 🌐 Live Demo
-(Add your deployed link here)
-Example: https://talentscope.vercel.app
+
+Example:(https://talent-scope-iota.vercel.app/)
 
 ---
 
-## 📸 Preview
-![TalentScope Preview](https://via.placeholder.com/1200x600?text=TalentScope+Dashboard+Preview)
 
----
 
 ## ✨ Features
 
